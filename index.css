@@ -1,0 +1,13 @@
+*{padding: 0;
+margin: 0;
+text-decoration: none;}
+
+h2{
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+
+h2:hover{
+    color: red;
+}
